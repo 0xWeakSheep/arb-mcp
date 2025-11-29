@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+      "lp_proxy_python": {
+        "transport": "http",
+        "url": "http://localhost:9000/mcp",
+        "env": {
+          "CHATWISE_PROJECT": "arb-mcp"
+        }
+      }
+    }
+}
